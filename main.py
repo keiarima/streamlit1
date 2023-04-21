@@ -15,7 +15,6 @@ for i in range(100):
 
 'Done!!!'
 
-
 left_column, right_column = st.columns(2)
 button = left_column.button('Text ont the right column')
 if button:
